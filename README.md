@@ -277,14 +277,6 @@ Enhance your VSCode experience with the following extensions:
 
 <img src="images/ext_es7+.png"  height="200"  style="border:1px solid white;border-radius:.3rem:margin-top:1rem">
 
- 6. **Next.js Snippets Extension:**
-
-- Open VSCode.
-- Navigate to the Extensions view (`Ctrl + Shift + X`).
-- Search for "nextjs" and install the "Nextjs Snippets" extension.
-
-<img src="images/ext_nextjssnippets.png"  height="200"  style="border:1px solid white;border-radius:.3rem:margin-top:1rem">
-
  6. **VS Code Icons Extension:**
 
 - Open VSCode.
